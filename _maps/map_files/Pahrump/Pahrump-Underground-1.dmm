@@ -33766,7 +33766,9 @@
 	},
 /area/f13/brotherhood/rnd)
 "yey" = (
-/obj/machinery/rnd/server/bos,
+/obj/machinery/rnd/server/bos{
+	base_mining_income = 5
+	},
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
 /area/f13/brotherhood/rnd)
 "yeD" = (
