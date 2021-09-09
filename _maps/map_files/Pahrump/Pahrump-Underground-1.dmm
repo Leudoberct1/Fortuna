@@ -33769,8 +33769,8 @@
 /obj/machinery/rnd/server/bos{
 	base_mining_income = 5
 	},
-/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
-/area/f13/brotherhood/rnd)
+/turf/open/floor/circuit/telecomms/mainframe,
+/area/f13/tcoms)
 "yeD" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/table/wood,
@@ -93085,7 +93085,7 @@ vOo
 xMi
 vOo
 cPg
-yey
+wiw
 vOo
 xvv
 xEb
@@ -96599,7 +96599,7 @@ eLE
 hgA
 qzI
 vFl
-frS
+yey
 frS
 frS
 frS
